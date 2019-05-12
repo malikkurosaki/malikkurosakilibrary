@@ -17,7 +17,7 @@ ___jangan sampe lupa ini juga___
 
 ```java
 dependencies {
-	        implementation 'com.github.malikkurosaki:malikkurosakilibrary:2.0'
+	        implementation 'com.github.malikkurosaki:malikkurosakilibrary:3.0'
 	}
 ```
 
