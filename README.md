@@ -63,3 +63,15 @@ __result permisinys__
 
 
 __donasi ke : wa 081338929722__
+
+___licency__
+
+```html
+uda pasti opensource apache dan kawan kawan ,
+
+males ngetik cari digoogle banyak ,
+
+kalo mau nuntut ambil aja toh saya dapetnya
+
+gratis juga , cuma modal kopi dan internet
+```
