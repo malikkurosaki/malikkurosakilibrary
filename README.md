@@ -64,7 +64,7 @@ __result permisinys__
 
 __donasi ke : wa 081338929722__
 
-___licency__
+___licency___
 
 ```html
 uda pasti opensource apache dan kawan kawan ,
